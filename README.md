@@ -11,6 +11,7 @@
    * [Planejamento dos projetos](#planejamento-dos-projetos)
    * [Objetivo](#objetivo)
    * [Tecnologias](#tecnologias)
+   * [Redes sociais](#redes-sociais)
    * [Acesse o site](#acesse-o-site)
 
 ## Status
@@ -48,6 +49,13 @@ O projeto foi dividido em 4 partes:
  * JS
  * GIT
  * Integração com API
+
+##Redes sociais
+
+  Linkedin: https://www.linkedin.com/in/pedromarques-dev/
+  Instagram: https://www.instagram.com/p_marques7/
+  Email: phmarkes@hotmail.com
+  Twitter: https://www.twitter.com/pmsev7n/
 
 ## Acessando o site
 
