@@ -25,7 +25,7 @@ O projeto foi dividido em 4 partes:
   * Estrutura do codigo - Onde foi feita toda estruturação do projeto a partir do corpo do HTML, todas as tags a serem utilizadas e a melhor maneira de organiza-las de forma semântica;
   * Estilização - Onde foi feita a parte visual da página utilizando o CSS. Todo posicionamento, imagens, cores, tamanho de fonte foram feitos nessa etapa, utilizando como referência o arquivo no FIGMA; 
   * Interações na pagina - Onde foi feita toda parte do JavaScript para manipular elementos da pagina e adicionar diversas funcionalidades;
-    * integração com API & versionamento - Onde foi feita a integração com a API do github para manipular dados da pagina e logo após, foi feita o versionamento do codigo para hospeda-lo no github.
+  * Integração com API & versionamento - Onde foi feita a integração com a API do github para manipular dados da pagina e logo após, foi feita o versionamento do codigo para hospeda-lo no github.
       
 
 ## Objetivo
@@ -52,9 +52,9 @@ O projeto foi dividido em 4 partes:
 
 ##Redes sociais
 
-  Linkedin: https://www.linkedin.com/in/pedromarques-dev/
-  Instagram: https://www.instagram.com/p_marques7/
-  Email: phmarkes@hotmail.com
+  Linkedin: https://www.linkedin.com/in/pedromarques-dev/ <br>
+  Instagram: https://www.instagram.com/p_marques7/ <br>
+  Email: phmarkes@hotmail.com <br>
   Twitter: https://www.twitter.com/pmsev7n/
 
 ## Acessando o site
