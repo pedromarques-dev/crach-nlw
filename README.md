@@ -50,7 +50,7 @@ O projeto foi dividido em 4 partes:
  * GIT
  * Integração com API
 
-##Redes sociais
+## Redes sociais
 
   Linkedin: https://www.linkedin.com/in/pedromarques-dev/ <br>
   Instagram: https://www.instagram.com/p_marques7/ <br>
